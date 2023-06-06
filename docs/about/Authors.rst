@@ -113,6 +113,7 @@ Kurik Amudnil
 Kévin Boissonneault     KABoissonneault
 Lethosor                lethosor
 LordGolias              LordGolias
+Maddison Heath          Unfaventia              DisasterandGo
 Mark Nielson            pseudodragon
 Mason11987              Mason11987
 Matt Regul              mattregul
